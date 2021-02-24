@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/techtrainingcamp-frontend-10-admin.github.io/static/css/main.c1b26da4.chunk.css",
-    "main.js": "/techtrainingcamp-frontend-10-admin.github.io/static/js/main.e2c4adf8.chunk.js",
-    "main.js.map": "/techtrainingcamp-frontend-10-admin.github.io/static/js/main.e2c4adf8.chunk.js.map",
+    "main.js": "/techtrainingcamp-frontend-10-admin.github.io/static/js/main.5d977d17.chunk.js",
+    "main.js.map": "/techtrainingcamp-frontend-10-admin.github.io/static/js/main.5d977d17.chunk.js.map",
     "runtime-main.js": "/techtrainingcamp-frontend-10-admin.github.io/static/js/runtime-main.f9c5525d.js",
     "runtime-main.js.map": "/techtrainingcamp-frontend-10-admin.github.io/static/js/runtime-main.f9c5525d.js.map",
     "static/css/2.b942648f.chunk.css": "/techtrainingcamp-frontend-10-admin.github.io/static/css/2.b942648f.chunk.css",
-    "static/js/2.f1c1fdee.chunk.js": "/techtrainingcamp-frontend-10-admin.github.io/static/js/2.f1c1fdee.chunk.js",
-    "static/js/2.f1c1fdee.chunk.js.map": "/techtrainingcamp-frontend-10-admin.github.io/static/js/2.f1c1fdee.chunk.js.map",
+    "static/js/2.b0272a4e.chunk.js": "/techtrainingcamp-frontend-10-admin.github.io/static/js/2.b0272a4e.chunk.js",
+    "static/js/2.b0272a4e.chunk.js.map": "/techtrainingcamp-frontend-10-admin.github.io/static/js/2.b0272a4e.chunk.js.map",
     "index.html": "/techtrainingcamp-frontend-10-admin.github.io/index.html",
     "static/css/2.b942648f.chunk.css.map": "/techtrainingcamp-frontend-10-admin.github.io/static/css/2.b942648f.chunk.css.map",
     "static/css/main.c1b26da4.chunk.css.map": "/techtrainingcamp-frontend-10-admin.github.io/static/css/main.c1b26da4.chunk.css.map",
-    "static/js/2.f1c1fdee.chunk.js.LICENSE.txt": "/techtrainingcamp-frontend-10-admin.github.io/static/js/2.f1c1fdee.chunk.js.LICENSE.txt"
+    "static/js/2.b0272a4e.chunk.js.LICENSE.txt": "/techtrainingcamp-frontend-10-admin.github.io/static/js/2.b0272a4e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f9c5525d.js",
     "static/css/2.b942648f.chunk.css",
-    "static/js/2.f1c1fdee.chunk.js",
+    "static/js/2.b0272a4e.chunk.js",
     "static/css/main.c1b26da4.chunk.css",
-    "static/js/main.e2c4adf8.chunk.js"
+    "static/js/main.5d977d17.chunk.js"
   ]
 }
